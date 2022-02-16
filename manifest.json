@@ -1,6 +1,6 @@
 {
   "name": "Google Search Language Switcher",
-  "description": "Quickly switch Google Search results language without having to go to settings every time.",
+  "description": "Switch Google Search results language in just one menu.",
   "version": "0.1.0",
   "manifest_version": 3,
   "icons": {
