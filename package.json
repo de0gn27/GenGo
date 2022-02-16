@@ -7,7 +7,7 @@
     "watch": "webpack --config webpack.dev.js --watch",
     "build:dev": "webpack --config webpack.dev.js",
     "build:prod": "webpack --config webpack.prod.js",
-    "zip": "zip -r ~/Downloads/gengo.zip dist manifest.json"
+    "zip": "zip -r ~/Downloads/gengo.zip dist icons manifest.json"
   },
   "license": "UNLICENSED",
   "devDependencies": {
